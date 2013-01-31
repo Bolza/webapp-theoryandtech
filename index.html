@@ -2,47 +2,33 @@
 <html lang="en">
 	<head>
 	    <meta charset="utf-8" />
-	    <meta name="viewport" content="width=1024" />
-	    <meta name="apple-mobile-web-app-capable" content="yes" />
 	    <title>Mobile Webapp - Theory and Technique | by Stefano Sergio</title>
 	    
 	    <meta name="description" content="**description" />
 	    <meta name="author" content="Stefano Sergio" />
 
-	    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,it…d|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
-
+	    <link href="css/normalize.css" rel="stylesheet" />
 	    <link href="impressjs/css/impress-demo.css" rel="stylesheet" />
-	    
-	    <link rel="shortcut icon" href="impressjs/favicon.png" />
-	    <link rel="apple-touch-icon" href="impressjs/apple-touch-icon.png" />
-		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-	    <link href='http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css' rel='stylesheet' type='text/css'/> 
-	    <script src='http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js' type='text/javascript'></script>
-
+	   	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 
 	</head>
 
-	<body class="impress-not-supported"  onload='prettyPrint()'>
-		<div class="fallback-message">
-		    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
-		    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
-		</div>
+	<body onload='prettyPrint()'>
 
 		<div id="impress" data-width="1400" data-height="800">
-			<div id="step-1" class="step background" data-x="0" data-y="0" data-scale='5'>
-				<img id="mainScheme" src='imgs/map.svg' />
-				<h3 style='top: 222px; left: 307px;'>Performance</h3>
-				<h3 style='top: 222px; left: 202px;'>Optimization</h3>
-				<h3 style='top: 251px; left: 99px;' >Data Source</h3>
-				<h3 style='top: 194px; left: 97px;' >Paginator</h3>
-				<h3 style='top: 140px; left: 619px;' >Usability</h3>
-				<h3 style='top: 270px; left: 619px;' >Costs</h3>
-				<h3 style='top: 181px; left: 708px;' >User Interface</h3>
-				<h3 style='top: 181px; left: 815px;' >TouchEvents</h3>
-				<h3 style='top: 181px; left: 912px;' >The insane compulsion for users to touch the screen</h3>
-				<h3 style='top: 124px; left: 708px;' >GUI</h3>
-				<h3 style='top: 132px; left: 758px;' >Carousel</h3>
+				
+			<div class="step" data-x="0" data-y="0" data-scale='5'>
+				
 			</div>
+			<div id="map" class="step background"  data-scale='5'>
+				<img id="mainScheme" src='imgs/map.svg' />
+			</div>
+
+			
+			<div id="zommolo" class="step" data-x="0" data-y="0" data-scale='0.2'>
+				
+			</div>
+
 
 			<div id="start" class="step" data-x="-740" data-y="-210" data-rotate-x="0"  data-scale='0.3' data-z="0">
 				<div class="basic">
@@ -191,28 +177,20 @@
 
 		</div>
 
-		<div class="hint">
-		    <p>Use a spacebar or arrow keys to navigate</p>
-		</div>
-
 
 	</body>
 
 	<style type="text/css">
+		.background { opacity: 1 !important; }
+/*
 
-
-		#impress {
-			
-		}
 		#mainScheme{
 			width: 100%;
 		}
 		#demo-paginator {
 			height: 800px;
 		}
-		.background {
-			opacity: 1 !important;
-		}
+	
 		.step {
 			min-height: 500px;
 			max-height: 1000px;
@@ -220,8 +198,8 @@
 			width: 1300px;
 			font-family: Tahoma;
 			backface-visibility:hidden;
-			-webkit-backface-visibility:hidden; /* Chrome and Safari */
-			-moz-backface-visibility:hidden; /* Firefox */
+			-webkit-backface-visibility:hidden;
+			-moz-backface-visibility:hidden; 
 			
 		}
 
@@ -259,7 +237,7 @@
 			height: 100%;
 			width: auto;
 		}
-
+*/
 	</style>
 
 	<script src="impressjs/js/impress.js"></script>
