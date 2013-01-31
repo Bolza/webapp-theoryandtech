@@ -13,7 +13,7 @@
 
 	</head>
 
-	<body onload='prettyPrint()'>
+	<body>
 
 		<div id="impress" data-width="1500" data-height="800">
 			<div id="map" class="step background" data-x="0" data-y="0"  data-scale='1'>
@@ -179,10 +179,7 @@
 
 			</div>
 
-			<div id="demo-carousel-3" class="step carousel" data-x="600" data-y="-75" data-scale='0.2' style="width:1530px" ></div>
-
-			<div id="demo-carousel-4" class="step carousel" data-x="600" data-y="-75" data-scale='0.2' style="width:1530px" ></div>
-
+		
 
 			<div id="staytuned" class="step" data-x="-740" data-y="-210" data-rotate-x="0"  data-scale='0.3' data-z="0">
 				<div class="basic">
@@ -283,32 +280,37 @@
 	</style>
 
 	<script src="impressjs/js/impress.js"></script>
+
 	<script>
+		document.addEventListener( "DOMContentLoaded", function(){
+			impress().init();
 
-		impress().init();
-		var root = impress().root;
+			var root = impress().root;
 
-	    root.addEventListener("impress:stepenter", function (event) {
-           if (event.target.id == 'paginator-demo-future') {
-            	var prev = document.querySelector("#demo-prev-page");
-    			//prev.style['-moz-transition-duration'] = prev.style['-webkit-transition-duration'] = '4s';
-            	prev.style.MozTransform = prev.style.webkitTransform = 'translate3d(975px,0,0)';
-            	prev.style.opacity = 1;
-            	document.querySelector("#demo-prev-page").style.opacity = 1
-            } 
-            else if (event.target.id == 'paginator-demo-new') {
-            	document.querySelector("#demo-prev-page").style.display = 'none';
-            	document.querySelector("#paginator-demo-new").style.display = 'block';
-            	
-            } 
-        });
-        
-        root.addEventListener("impress:stepleave", function (event) {
-            if (event.target.id == 'grid-recycle') {
-            	document.querySelector("#mainScheme").display = 'none'; 
-            	console.log('ENTER',event);
-            } 
-        });
+			    root.addEventListener("impress:stepenter", function (event) {
+		           if (event.target.id == 'paginator-demo-future') {
+		            	var prev = document.querySelector("#demo-prev-page");
+		    			//prev.style['-moz-transition-duration'] = prev.style['-webkit-transition-duration'] = '4s';
+		            	prev.style.MozTransform = prev.style.webkitTransform = 'translate3d(975px,0,0)';
+		            	prev.style.opacity = 1;
+		            	document.querySelector("#demo-prev-page").style.opacity = 1
+		            } 
+		            else if (event.target.id == 'paginator-demo-new') {
+		            	document.querySelector("#demo-prev-page").style.display = 'none';
+		            	document.querySelector("#paginator-demo-new").style.display = 'block';
+		            	
+		            } 
+		        });
+		        
+		        root.addEventListener("impress:stepleave", function (event) {
+		            if (event.target.id == 'grid-recycle') {
+		            	document.querySelector("#mainScheme").display = 'none'; 
+		            	console.log('ENTER',event);
+		            } 
+		        });
+		    
+
+	    });
 		
 
 

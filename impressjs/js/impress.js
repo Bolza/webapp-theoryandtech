@@ -636,7 +636,7 @@
             goto: goto,
             next: next,
             prev: prev,
-            root: root
+            root: root || document.querySelector('#impress')
         });
 
     };
