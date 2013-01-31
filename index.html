@@ -15,20 +15,15 @@
 
 	<body onload='prettyPrint()'>
 
-		<div id="impress" data-width="1400" data-height="800">
-				
-			<div class="step" data-x="0" data-y="0" data-scale='5'>
-				
-			</div>
-			<div id="map" class="step background"  data-scale='5'>
-				<img id="mainScheme" src='imgs/map.svg' />
+		<div id="impress" data-width="1500" data-height="800">
+			<div id="map" class="step background" data-x="0" data-y="0"  data-scale='1'>
+				<img id="mainScheme" src='imgs/map.svg' width="100%" />
 			</div>
 
 			
-			<div id="zommolo" class="step" data-x="0" data-y="0" data-scale='0.2'>
+			<div id="zommolo" class="step" data-x="0" data-y="00" data-scale='0.2'>
 				
 			</div>
-
 
 			<div id="start" class="step" data-x="-740" data-y="-210" data-rotate-x="0"  data-scale='0.3' data-z="0">
 				<div class="basic">
@@ -41,18 +36,23 @@
 			<div id="step-3" class="step" data-x="-750" data-y="0"  data-rotate-x="0"  ></div>
 
 			<!--DATA SOURCE -->
-			<div id="performance-datasource" class="step " data-x="-1530" data-y="-15"  data-scale='0.3' >
+			<div id="performance-datasource" class="step " data-x="55" data-y="128"  data-scale='0.2' >
+				<h3>Performance</h3>
 				<ul>
 					<li>One Ajax Request -> Lots of Views</li>
 				</ul>
 			</div>
-			<div id="optimization-datasource" class="step " data-x="-2050" data-y="-10"  data-scale='0.3' >
+
+			<div id="optimization-datasource" class="step " data-x="280" data-y="128"  data-scale='0.2' >
+				<h3>Optimization</h3>
 				<ul>
 					<li>Handle all data-requests with one Class</li>
 					<li>...that Must also handle the data stream</li>
 				</ul>
 			</div>
-			<div id="zoom-datasource" class="step " data-x="-2570" data-y="130"  data-scale='0.3' >
+
+			<div id="zoom-datasource" class="step " data-x="556" data-y="168"  data-scale='0.2' >
+				<h3>Data Source</h3>
 				<ul>
 					<li>Handles XHR and Local Requests</li>
 					<li>Parses Data</li>
@@ -61,55 +61,85 @@
 				</ul>
 			</div>
 
+
+
+			<div id="resumee-2" class="step" data-x="-0" data-y="0"  data-scale='1' ></div>
 			<!-- CACHING -->
 
 
 			<!--SWIPE-->
-			<div id="resumee-2" class="step" data-x="-750" data-y="0"  data-scale='1.5' ></div>
-			<div id="usability-gestures" class="step" data-x="20" data-y="-500"  data-scale='0.3' ></div>
-			<div id="user-interface" class="step " data-x="470" data-y="-270"  data-scale='0.4' > </div>
-			<div id="gestures" class="step " data-x="1020" data-y="-250"  data-scale='0.38' > </div>
-			<div id="insane" class="step " data-x="2000" data-y="-170"  data-scale='1.1' > </div>
-			
+			<div id="usability-gestures" class="step" data-x="30" data-y="-70"  data-scale='0.2' >
+				<h3>Usability</h3>
+				<ul>
+					<li>“It is far better to adapt the technology to the user than to force the user to adapt to the technology.” – Larry Marine</li>
+				</ul>
+			</div>
+
+			<div id="user-interface" class="step " data-x="250" data-y="0"  data-scale='0.2' >
+				<h3>User Interface</h3>
+				<ul>
+					<li>“A picture is worth a thousand words. An interface is worth a thousand pictures.” - Ben Shneiderman</li>
+					<li>"Don't worry Ben, already we make webapp thousand pictures". - Stefano Sergio</li>
+				</ul>
+			</div>
+
+
+			<div id="gestures" class="step " data-x="540" data-y="0"  data-scale='0.2' > 
+				<h3>Gestures</h3>
+				<ul>
+					<li>The insane compulsion for users to touch the screen</li>
+				</ul>
+			</div>
+
 			<!-- PAGINATOR -->
-			<div id="usability-swipable" class="step" data-x="20" data-y="-500"  data-scale='0.3' ></div>
-			<div id="gui-swipable" class="step" data-x="470" data-y="-520"  data-scale='0.3' >
-				<ul  style="margin-top: 1em;">
-					<li>Swipable grids</li>
+
+			<div id="gui-swipable" class="step" data-x="250" data-y="-100"  data-scale='0.2' >
+				<h3>GUI</h3>
+				<ul style="margin-top: 1em;">
+					<li>We want a lot of grids and the user should swipe among them</li>
 				</ul>
 			</div>
-			<div id="performance-paginator" class="step " data-x="-1530" data-y="-15"  data-scale='0.3' >
-				<ul style="margin-top: 3em;">
-					<li>Smooth and fluid transitions</li>
+
+			<div id="performance-paginator" class="step " data-x="55" data-y="128" data-scale='0.2' >
+				<h3>Performance</h3>
+				<ul style="margin-top: 0;">
+					<li>Smooth and fluid transitions among Grids</li>
 				</ul>
 			</div>
-			<div id="optimization-paginator" class="step " data-x="-2050" data-y="-10"  data-scale='0.3' >
-				<ul style="margin-top: 6em;">
+			<div id="optimization-paginator" class="step " data-x="280" data-y="128"  data-scale='0.2' >
+				<h3>Optimization</h3>
+				<ul>
 					<li>Too much grids will kill you</li>
 					<li>...besides you'll probably never see all those data</li>
 				</ul>
 			</div>
-			<div id="zoom-paginator" class="step " data-x="-2580" data-y="-150"  data-scale='0.3' >
+			<div id="zoom-paginator" class="step " data-x="556" data-y="94"  data-scale='0.2' >
+				<h3>Paginator</h3>
 				<ul>
 					<li>It only renders three grids and then...</li>
 					<li>recycle them for all data</li>					
 				</ul>
 			</div>
 
-			<div id="paginator-demo-prev" class="step demo-slide" data-x="-2980" data-y="-140" data-rotate-y="-90" data-z="-300"  data-scale='0.3' >
-				<div class="demo-slide"><img id="paginator-img" src='imgs/01-prev.jpg' /></div>
+			
+			<div id="paginator-demo-current" class="step demo-slide " data-x="700" data-y="94" data-rotate-y="90"  data-scale='0.1' >
+				<div id="demo-prev-page" style='opacity:0.5;' ><img id="paginator-img" src='imgs/01-prev.jpg' /></div>
+				<div style='left:365px;'><img id="paginator-img" src='imgs/01-current.jpg' /></div>
 			</div>
-			<div id="paginator-demo-current" class="step demo-slide " data-x="-2980" data-y="-140" data-rotate-y="-90" data-z="-203"  data-scale='0.3' >
-				<div class="demo-slide"><img id="paginator-img" src='imgs/01-current.jpg' /></div>
+
+			<div id="paginator-demo-next" class="step demo-slide " data-x="725" data-y="94"  data-rotate-y="90"  data-scale='0.1' >
+				<div style='left:440px;'><img id="paginator-img" src='imgs/01-next.jpg' /></div>
 			</div>
-			<div id="paginator-demo-next" class="step demo-slide " data-x="-2980" data-y="-140" data-rotate-y="-90" data-z="-106" data-scale='0.3' >
-				<div class="demo-slide"><img id="paginator-img" src='imgs/01-next.jpg' /></div>
+
+			<div id="paginator-demo-future" class="step demo-slide " data-x="725" data-y="94"  data-rotate-y="90"  data-scale='0.1' >
 			</div>
-			<div id="paginator-demo-future" class="step demo-slide " data-x="-2980" data-y="-140" data-rotate-y="-90" data-z="-09"  data-scale='0.3' >
+
+			<div id="paginator-demo-new" class="step demo-slide " data-x="725" data-y="94" data-rotate-y="90" data-scale='0.1' >
+				<div style='left:765px;'><img id="paginator-img" src='imgs/01-new.jpg' /></div>
 			</div>
-			<div id="paginator-demo-new" class="step demo-slide " data-x="-2980" data-y="-140" data-rotate-y="-90" data-z="-09"  data-scale='0.3' >
-				<div class="demo-slide"><img id="paginator-img" src='imgs/01-new.jpg' /></div>
-			</div>
+
+
+
 
 			<div id="resumee-3" class="step" data-x="-750" data-y="0"  data-scale='1.5' ></div>
 			<div id="gui-carousel" class="step" data-x="470" data-y="-520"  data-scale='0.3' >
@@ -182,7 +212,7 @@
 
 	<style type="text/css">
 		.background { opacity: 1 !important; }
-/*
+
 
 		#mainScheme{
 			width: 100%;
@@ -192,38 +222,54 @@
 		}
 	
 		.step {
-			min-height: 500px;
-			max-height: 1000px;
+			/*min-height: 500px;
+			max-height: 1000px;*/
 			font-size: 2.2em;
-			width: 1300px;
 			font-family: Tahoma;
 			backface-visibility:hidden;
 			-webkit-backface-visibility:hidden;
 			-moz-backface-visibility:hidden; 
-			
-		}
+			width: 1500px;
+			min-height: 600px;
 
+		}
+		.step:not(.active) { opacity: 0.1; }
 		.red {
 			background: red;
 		}
 		.step li {
-			font-size: 1.4em;
+			font-size: 1.5em;
+
 		}
 		h3 {
-			font-size: 12px;
-			position: absolute;
-			display: none;
+			margin: 0;
+			padding: 0;
+			font-size: 4.5em;
+			margin-bottom: 0.3em;
+			
 		}
 		.demo-slide img{
-			border: 1px dotted royalblue;
-
+			border: 3px dotted royalblue;
+		}
+		.demo-slide > div{
+			position: absolute;
 		}
 
 		.demo-slide {
-			width: 405px;
-			height:1000px !important;
+			width: 1200px;
 			position: absolute;
 		}
+		.demo-slide.step:not(.active) {
+			opacity: 0.5;
+		}
+		
+		#demo-prev-page {
+			transition-duration: 2s;
+			-moz-transition-duration: 2s; 
+			-webkit-transition-duration: 2s; 
+			-o-transition-duration: 2s;
+		}
+
 		#paginator-demo-new {
 			display: none;
 		}
@@ -231,13 +277,13 @@
 			font-size: 3em;
 		}
 		.step ul {
-			padding-top: 148px;
+			
 		}
 		.carousel li img {
 			height: 100%;
 			width: auto;
 		}
-*/
+
 	</style>
 
 	<script src="impressjs/js/impress.js"></script>
@@ -248,13 +294,14 @@
 
 	    root.addEventListener("impress:stepenter", function (event) {
            if (event.target.id == 'paginator-demo-future') {
-            	var prev = document.querySelector("#paginator-demo-prev .demo-slide");
-    			prev.style['-moz-transition-duration'] = prev.style['-webkit-transition-duration'] = '2s';
-            	prev.style.MozTransform = prev.style.webkitTransform = 'translate3d(972px,0,0)';
-            	 document.querySelector("#paginator-demo-prev").style.opacity = 1
+            	var prev = document.querySelector("#demo-prev-page");
+    			//prev.style['-moz-transition-duration'] = prev.style['-webkit-transition-duration'] = '4s';
+            	prev.style.MozTransform = prev.style.webkitTransform = 'translate3d(975px,0,0)';
+            	prev.style.opacity = 1;
+            	document.querySelector("#demo-prev-page").style.opacity = 1
             } 
             else if (event.target.id == 'paginator-demo-new') {
-            	document.querySelector("#paginator-demo-prev").style.display = 'none';
+            	document.querySelector("#demo-prev-page").style.display = 'none';
             	document.querySelector("#paginator-demo-new").style.display = 'block';
             	
             } 
