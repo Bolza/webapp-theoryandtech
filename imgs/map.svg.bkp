@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" focusable="true" height="311.0" id="workspace" preserveAspectRatio="xMinYMin" viewBox="-424.0 -152.0 1118.0 311.0" width="1118.0">
+<path d="M151,51 C160,51 170,103 179,103" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M268,36 C277,36 288,76 297,76" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M268,36 C277,36 287,49 296,49" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M268,36 C277,36 288,22 297,22" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M268,36 C277,36 287,-4 296,-4" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M151,51 C160,51 170,35 179,35" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C37,0 75,51 112,51 75,54 37,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M-280,21 C-289,21 -300,34 -309,34" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-280,21 C-289,21 -300,8 -309,8" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-185,20 C-194,20 -205,20 -214,20" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C-37,0 -74,20 -111,20 -74,23 -37,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M373,-31 C382,-31 393,-31 402,-31" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M275,-31 C284,-31 295,-31 304,-31" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M164,-57 C173,-57 183,-31 192,-31" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M221,-72 C230,-72 240,-58 249,-58" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M221,-72 C230,-72 240,-85 249,-85" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M164,-57 C173,-57 183,-72 192,-72" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C37,0 74,-57 111,-57 74,-54 37,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<rect fill="#CC0033" fill-opacity="0.4" height="21" rx="0" ry="0" stroke="#FF9933" stroke-opacity="0.4" stroke-width="1px" visibility="hidden" width="69" x="-281" y="2"/>
+<path d="M-319,-42 C-306,-21 -293,0 -280,21" fill-opacity="0.4" stroke="#CC0033" stroke-opacity="0.4" stroke-width="1px" style="fill:none " visibility="hidden"/>
+<path fill-opacity="0.4" stroke="#CC0033" stroke-opacity="0.4" stroke-width="1px" style="fill:none " visibility="hidden"/>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-81,-20) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="46" rx="6.8999999999999995" ry="6.8999999999999995" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: default;" width="167" x="-2" y="-3"/>
+<rect fill="rgb(80,157,192)" height="40" rx="6" ry="6" stroke="rgb(57,113,177)" stroke-width="2px" style="cursor: default;" width="163" x="0" y="0"/>
+<text fill="#ffffff" font-family="verdana" font-size="13.4375" font-style="normal" font-weight="bold" style="cursor: default;" visibility="visible" x="11" y="11">
+<tspan dy="1em" x="11">Appsfuel Webapp</tspan>
+</text>
+<g focusable="true" height="18" preserveAspectRatio="none" transform="translate(011) scale(00.18)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(111,-77) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="26" rx="3.9" ry="3.9" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="55" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="51" y1="20" y2="20"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Usability</tspan>
+</text>
+<ellipse cx="54" cy="20" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="14" preserveAspectRatio="none" transform="translate(03) scale(00.14)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(192,-89) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="31" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="27" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">GUI</tspan>
+</text>
+<ellipse cx="30" cy="17" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(249,-102) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="33" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="29" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Grid</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(249,-75) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="53" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="49" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Carousel</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(192,-48) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="85" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="81" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User Interaction</tspan>
+</text>
+<ellipse cx="84" cy="17" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(304,-48) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="72" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="68" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Touch Events</tspan>
+</text>
+<ellipse cx="71" cy="17" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(402,-48) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="242" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="238" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">The insane compulsion for users to touch the screen</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-184,0) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="26" rx="3.9" ry="3.9" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="77" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="73" y1="20" y2="20"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Performance</tspan>
+</text>
+<ellipse cx="-3" cy="20" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="14" preserveAspectRatio="none" transform="translate(03) scale(00.14)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-279,3) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="69" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="65" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Optimization</tspan>
+</text>
+<ellipse cx="-3" cy="17" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-374,-9) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="69" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="65" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Grid Recycle</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-374,17) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="69" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="65" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Data Source</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(112,31) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="26" rx="3.9" ry="3.9" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="42" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="38" y1="20" y2="20"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Costs</tspan>
+</text>
+<ellipse cx="41" cy="20" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="14" preserveAspectRatio="none" transform="translate(03) scale(00.14)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(179,18) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="91" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="87" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">External Libraries</tspan>
+</text>
+<ellipse cx="90" cy="17" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(296,-21) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="51" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="47" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Swipe.js</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(297,5) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="44" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="40" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Path.js</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(296,32) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="53" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="49" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">BusterJS</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(297,59) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="72" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="68" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">JSdoc Toolkit</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(179,86) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="67" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="63" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Code Reuse</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(03) scale(00.11)" width="0"/>
+</g>
+<rect fill="#CC0033" fill-opacity="0.4" height="6" rx="0" ry="0" stroke="#FF9933" stroke-opacity="0.4" stroke-width="1px" visibility="hidden" width="50" x="-367" y="-45"/>
+</svg>

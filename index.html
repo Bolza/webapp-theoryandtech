@@ -17,33 +17,29 @@
 
 		<div id="impress" data-width="1500" data-height="800">
 			<div id="map" class="step background" data-x="0" data-y="0"  data-scale='1'>
-				<img id="mainScheme" src='imgs/map.svg' width="100%" />
+				<img id="mainScheme" src='imgs/presentazione_stefano.png' width="100%" />
 			</div>
 
-			
-			<div id="zommolo" class="step" data-x="0" data-y="00" data-scale='0.2'>
-				
-			</div>
-
-			<div id="start" class="step" data-x="-740" data-y="-210" data-rotate-x="0"  data-scale='0.3' data-z="0">
+			<div id="present" class="step" data-x="-460" data-y="-210" data-rotate-x="90"  data-scale='0.3' data-z="0">
 				<div class="basic">
-					<div>Mobile Webapp - Theory and Technique </div>
-					<div>Tips & Tricks</div>
-					<div></div>
+					<p class="medium">Mobile Webapp</p>
+					<p class="small"><i>Theory and Technique</i></p>
 				</div>
 			</div>
 
-			<div id="step-3" class="step" data-x="-750" data-y="0"  data-rotate-x="0"  ></div>
+
+
+			<div id="start" class="step" data-x="0" data-y="0"  data-rotate-x="0"  ></div>
 
 			<!--DATA SOURCE -->
-			<div id="performance-datasource" class="step " data-x="55" data-y="128"  data-scale='0.2' >
+			<div id="performance-datasource" class="step " data-x="5" data-y="158"  data-scale='0.2' >
 				<h3>Performance</h3>
 				<ul>
 					<li>One Ajax Request -> Lots of Views</li>
 				</ul>
 			</div>
 
-			<div id="optimization-datasource" class="step " data-x="280" data-y="128"  data-scale='0.2' >
+			<div id="optimization-datasource" class="step " data-x="250" data-y="150"  data-scale='0.2' >
 				<h3>Optimization</h3>
 				<ul>
 					<li>Handle all data-requests with one Class</li>
@@ -51,7 +47,7 @@
 				</ul>
 			</div>
 
-			<div id="zoom-datasource" class="step " data-x="556" data-y="168"  data-scale='0.2' >
+			<div id="zoom-datasource" class="step " data-x="606" data-y="256"  data-scale='0.2' >
 				<h3>Data Source</h3>
 				<ul>
 					<li>Handles XHR and Local Requests</li>
@@ -68,14 +64,14 @@
 
 
 			<!--SWIPE-->
-			<div id="usability-gestures" class="step" data-x="30" data-y="-70"  data-scale='0.2' >
+			<div id="usability-gestures" class="step" data-x="-30" data-y="-131"  data-scale='0.2' >
 				<h3>Usability</h3>
 				<ul>
 					<li>“It is far better to adapt the technology to the user than to force the user to adapt to the technology.” – Larry Marine</li>
 				</ul>
 			</div>
 
-			<div id="user-interface" class="step " data-x="250" data-y="0"  data-scale='0.2' >
+			<div id="user-interface" class="step " data-x="270" data-y="-30"  data-scale='0.2' >
 				<h3>User Interface</h3>
 				<ul>
 					<li>“A picture is worth a thousand words. An interface is worth a thousand pictures.” - Ben Shneiderman</li>
@@ -84,7 +80,7 @@
 			</div>
 
 
-			<div id="gestures" class="step " data-x="540" data-y="0"  data-scale='0.2' > 
+			<div id="gestures" class="step " data-x="610" data-y="-39"  data-scale='0.2' > 
 				<h3>Gestures</h3>
 				<ul>
 					<li>The insane compulsion for users to touch the screen</li>
@@ -93,27 +89,27 @@
 
 			<!-- PAGINATOR -->
 
-			<div id="gui-swipable" class="step" data-x="250" data-y="-100"  data-scale='0.2' >
+			<div id="gui-swipable" class="step" data-x="260" data-y="-197"  data-scale='0.2' >
 				<h3>GUI</h3>
-				<ul style="margin-top: 1em;">
+				<ul style="margin-top: 1em; max-width: 700px">
 					<li>We want a lot of grids and the user should swipe among them</li>
 				</ul>
 			</div>
 
-			<div id="performance-paginator" class="step " data-x="55" data-y="128" data-scale='0.2' >
+			<div id="performance-paginator" class="step " data-x="5" data-y="158" data-scale='0.2' >
 				<h3>Performance</h3>
 				<ul style="margin-top: 0;">
 					<li>Smooth and fluid transitions among Grids</li>
 				</ul>
 			</div>
-			<div id="optimization-paginator" class="step " data-x="280" data-y="128"  data-scale='0.2' >
+			<div id="optimization-paginator" class="step " data-x="250" data-y="150"  data-scale='0.2' >
 				<h3>Optimization</h3>
 				<ul>
 					<li>Too much grids will kill you</li>
 					<li>...besides you'll probably never see all those data</li>
 				</ul>
 			</div>
-			<div id="zoom-paginator" class="step " data-x="556" data-y="94"  data-scale='0.2' >
+			<div id="zoom-paginator" class="step " data-x="608" data-y="84"  data-scale='0.2' >
 				<h3>Paginator</h3>
 				<ul>
 					<li>It only renders three grids and then...</li>
@@ -137,10 +133,13 @@
 
 
 			<div id="resumee-3" class="step" data-x="-0" data-y="0"  data-scale='1' ></div>
-			<div id="gui-carousel" class="step" data-x="250" data-y="-100"  data-scale='0.2' >
-
+			<div id="gui-carousel" class="step" data-x="260" data-y="-197"  data-scale='0.2' >
+				<h3>GUI</h3>
+				<ul style="margin-top: 1em;">
+					<li>A carousel with an 'infinite' effect</li>
+				</ul>
 			</div>
-			<div id="zoom-carousel" class="step" data-x="400" data-y="-75"  data-scale='0.2' >
+			<div id="zoom-carousel" class="step" data-x="510" data-y="-150"  data-scale='0.2' >
 				<h3>Carousel</h3>
 				<ul>
 					<li>Handles any number of images</li>
@@ -179,23 +178,22 @@
 
 			</div>
 
-		
-
-			<div id="staytuned" class="step" data-x="-740" data-y="-210" data-rotate-x="0"  data-scale='0.3' data-z="0">
+			<div id="staytuned" class="step" data-x="-460" data-y="-210" data-rotate-y="-90" data-scale='0.3' data-z="0">
 				<div class="basic">
-					<div>If only i had a mobile framwork...</div>
-					<div>Something is going to happen...</div>
-					<div></div>
+					<p class="medium">"If only I had a mobile framework..."</p>
+					<p class="small">Stay Tuned for the <br><i>Appsfuel mobile-oriented Framework</i></p>
 				</div>
 			</div>
-			<!--div id="end" class="step" data-x="00" data-y="0" data-rotate-x="90"  data-scale='5' data-z="0">
-				<div class="basic">
-					<div>Appsfuel Webapp 2.0</div>
-					<div>Tips & Tricks</div>
-					<div></div>
-				</div>
-			</div-->
 
+			<div id="thanks" class="step" data-x="-460" data-y="-210" data-rotate-y="-180" data-scale='0.3' data-z="0">
+				<div class="basic">
+					<h5></h5>
+					<p class="medium">Special Thanks</p>
+					<div class="small"><br>Jessica Ciccolone | <i>Graphic Designer</i></div>
+					<div class="small"><br>Andrea De Marco | <i>Python Fundamentalist</i></div>
+				</div>
+			</div>
+	
 
 		</div>
 
@@ -229,6 +227,9 @@
 		.red {
 			background: red;
 		}
+		.step ul {
+			max-width: 1030px;
+		}
 		.step li {
 			font-size: 1.5em;
 
@@ -238,7 +239,7 @@
 			padding: 0;
 			font-size: 4.5em;
 			margin-bottom: 0.3em;
-			display: none;
+
 			
 		}
 		.demo-slide img{
@@ -275,6 +276,15 @@
 		.carousel li img {
 			height: 100%;
 			width: auto;
+		}
+
+		.medium{
+			font-size: 125px;
+		}
+		.small {
+			margin-top: 90px;
+			font-size: 65px;
+		
 		}
 
 	</style>
